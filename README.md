@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 👯 I’m looking to collaborate on smart systems, machine learning apps, and connected solutions  
 🤔 I’m looking for help with ML model optimization and deploying scalable .NET solutions  
 💬 Ask me about AI, machine learning, computer vision, or .NET development  
-📫 How to reach me: [[your email or LinkedIn link](https://www.linkedin.com/in/mohamed-zain-alden-562a19258?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bs9Tp6WWFTdm0mFkZcN8h1g%3D%3D)]  
+📫 How to reach me: [[ LinkedIn ](https://www.linkedin.com/in/mohamed-zain-alden-562a19258?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bs9Tp6WWFTdm0mFkZcN8h1g%3D%3D)]  
 😄 Pronouns: He/Him  
 ⚡ Fun fact: I enjoy combining AI and software development to build practical, real-world solutions
 
