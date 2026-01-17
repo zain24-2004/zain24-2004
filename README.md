@@ -1,13 +1,14 @@
 ## Hi there 👋
 
 <# 
-💫 About Me:
-🔭 Working on AI, computer vision, and .NET projects  
-👯 Open to collaborate on smart systems & ML apps  
-🤝 Seeking help with ML optimization & scalable .NET solutions  
-🌱 Learning deep learning, cloud integration, and AR/VR  
-💬 Ask me about AI, ML, computer vision, or .NET  
-⚡ Fun fact: I love turning AI ideas into real-world apps
+
+💫 About Me:  
+I’m an Intelligent Systems & AI enthusiast and a .NET developer, passionate about building smart, connected systems that solve real-world problems. I work on AI-powered projects, including computer vision, machine learning, and deep learning applications, while also developing scalable and efficient .NET solutions.  
+
+I enjoy exploring the intersection of AI and software development, from designing intelligent models to deploying them in practical applications. I’m particularly interested in AR/VR integration, cloud-based solutions, and optimizing ML models for performance and accuracy.  
+
+I’m always open to collaborating on innovative projects that leverage AI, ML, and .NET technologies to create impactful solutions. When I’m not coding, I love experimenting with new technologies and finding creative ways to turn AI ideas into reality.
+
 
 
 ## 🌐 Socials:
@@ -36,13 +37,12 @@
 **zain24-2004/zain24-2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+🔭 I’m currently working on AI-powered computer vision projects and .NET applications  
+🌱 I’m currently learning advanced deep learning techniques, cloud integration, and AR/VR development  
+👯 I’m looking to collaborate on smart systems, machine learning apps, and connected solutions  
+🤔 I’m looking for help with ML model optimization and deploying scalable .NET solutions  
+💬 Ask me about AI, machine learning, computer vision, or .NET development  
+📫 How to reach me: [[your email or LinkedIn link](https://www.linkedin.com/in/mohamed-zain-alden-562a19258?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bs9Tp6WWFTdm0mFkZcN8h1g%3D%3D)]  
+😄 Pronouns: He/Him  
+⚡ Fun fact: I enjoy combining AI and software development to build practical, real-world solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
